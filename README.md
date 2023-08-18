@@ -1,7 +1,5 @@
 ### Hi there, Omar Ali is here! 👋
 
-## Hey, [Omar Ali is here!](https://www.youtube.com/@joonguinirecipes)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-
 [![Linkedin Badge](https://img.shields.io/badge/-Omar%20Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-alii/)](https://www.linkedin.com/in/omar-alii/) [![Gmail Badge](https://img.shields.io/badge/-omar.ali2332-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omar.ali2332@gmail.com)](yousifm836@gmail.com)
 
 <div style="text-align: right">Programming in the Kitchen , with delicous recipes 🤩 🥳 </div>
@@ -12,20 +10,10 @@
 * Mobile Development
 
 ## Programming Languages
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/dart.png' width='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/kotlin.svg' width='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/c-original.svg' height='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/cpp.svg' height='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/java.svg' height='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/html.svg' width='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/css.svg' width='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/js.svg' height='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/php.svg' width='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/sql.svg' width='30'/>
+<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/dart.png' width='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/kotlin.svg' width='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/c-original.svg' height='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/cpp.svg' height='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/java.svg' height='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/html.svg' width='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/css.svg' width='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/js.svg' height='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/php.svg' width='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/sql.svg' width='30'/>
  
  ## Technologies I Use
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/flutter.png' height='30'/>
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/git.svg' width='30'/>
+<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/flutter.png' height='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/git.svg' width='30'/>
  
  ## Who am I?
  ```python
