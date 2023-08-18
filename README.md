@@ -8,10 +8,10 @@
 * Mobile Development
 
 ## Programming Languages
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/dart.png' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/kotlin.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/python.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/c-original.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/cpp.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/java.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/html.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/css.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/js.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/php.svg' height='30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/sql.svg' height='30'/>
+<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/dart.png' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/kotlin.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/python.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/c-original.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/cpp.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/java.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/html.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/css.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/js.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/php.svg' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/sql.svg' height = '30'/>
  
  ## Technologies I Use
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/flutter.png' height='30'/> <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/git.svg' height='30'/>
+<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/flutter.png' height = '30'/>  <img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/git.svg' height = '30'/>
  
  ## Who am I?
  ```python
