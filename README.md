@@ -16,7 +16,7 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Omar Ali'
+ 	user = 'Omar Ali Mahmoud'
 		current_work = 'Freelancer'
 		hobbies = [
 				'Learning new things,
