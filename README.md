@@ -22,7 +22,7 @@
 
 ## Technologies I Use
 
-<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/flutter.png' height = '30'/>  <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height = '30'/>  <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' height = '30'/>  <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height = '30'/>  <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' height = '30'/>
+<img src = 'https://github.com/3omar3li/3omar3li/blob/main/Images/flutter.png' height = '30'/>  <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' height = '30'/>  <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' height = '30'/>  <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' height = '30'/>  <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' height = '30'/>
 
 ## Who am I?
 
