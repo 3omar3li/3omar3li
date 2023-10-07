@@ -1,8 +1,9 @@
 ### Hi there, Omar Ali is here! 👋
 
-https://img.shields.io/badge/-Omar%20Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-alii/
-
-https://img.shields.io/badge/-omar.ali2332-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omar.ali2332@gmail.com
+<div align = "center">
+<img src = "https://img.shields.io/badge/-Omar%20Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-alii" height = "50"/>
+<img src = "https://img.shields.io/badge/-omar.ali2332-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omar.ali2332@gmail.com" height = "50"/>
+</div>
 
 ## :computer: Technologies I Love
 
